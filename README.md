@@ -47,7 +47,3 @@ The goal is twofold:
 
 3. **Revenue Optimization:**
    - Cross-selling boosts overall policy revenue while improving customer retention through bundled offerings.
-
----
-
-This project provides a solid foundation for analyzing **cross-selling strategies** in the insurance industry, highlighting the importance of data analytics in driving customer engagement and business growth. Let me know if you'd like further expansion on the methodology or any related content!
